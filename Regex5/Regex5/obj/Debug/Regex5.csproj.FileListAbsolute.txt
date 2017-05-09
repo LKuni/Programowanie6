@@ -1,0 +1,5 @@
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj6\Regex5\Regex5\bin\Debug\Regex5.exe.config
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj6\Regex5\Regex5\bin\Debug\Regex5.exe
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj6\Regex5\Regex5\bin\Debug\Regex5.pdb
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj6\Regex5\Regex5\obj\Debug\Regex5.exe
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj6\Regex5\Regex5\obj\Debug\Regex5.pdb

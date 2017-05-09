@@ -1,0 +1,5 @@
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj6\Regex2\Regex2\bin\Debug\Regex2.exe.config
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj6\Regex2\Regex2\bin\Debug\Regex2.exe
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj6\Regex2\Regex2\bin\Debug\Regex2.pdb
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj6\Regex2\Regex2\obj\Debug\Regex2.exe
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj6\Regex2\Regex2\obj\Debug\Regex2.pdb

@@ -1,0 +1,11 @@
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj6\Regex1\Regex1\bin\Debug\Regex1.exe.config
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj6\Regex1\Regex1\bin\Debug\Regex1.exe
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj6\Regex1\Regex1\bin\Debug\Regex1.pdb
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj6\Regex1\Regex1\obj\Debug\Regex1.exe
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj6\Regex1\Regex1\obj\Debug\Regex1.pdb
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj6\Regex3\Regex1\bin\Debug\Regex1.exe.config
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj6\Regex3\Regex1\obj\Debug\Regex1.exe
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj6\Regex3\Regex1\obj\Debug\Regex1.pdb
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj6\Regex3\Regex1\bin\Debug\Regex1.exe
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj6\Regex3\Regex1\bin\Debug\Regex1.pdb
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj6\Regex3\Regex1\obj\Debug\Regex3.csprojResolveAssemblyReference.cache
